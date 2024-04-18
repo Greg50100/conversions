@@ -5,8 +5,8 @@ setup(
     version='0.1',
     packages=find_packages(),
     description='A package for various conversions',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Gregory',
+    author_email='57194668+Greg50100@users.noreply.github.com',
     url='https://github.com/Greg50100/convertions.git',
     classifiers=[
         'Development Status :: 3 - Alpha',
